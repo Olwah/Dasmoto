@@ -1,0 +1,38 @@
+/* General Styles */
+
+html {
+  font-family: helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: khaki;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+strong {
+  font-weight: bold;
+  color: blue;
+}
+
+/* Product Title Styles */
+
+.product-brushes {
+  background-color: mediumspringgreen;
+}
+
+.product-frames {
+  background-color: lightcoral;
+}
+
+.product-paint {
+  background-color: skyblue;
+}
